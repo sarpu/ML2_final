@@ -41,7 +41,7 @@ def make_prediction():
 
 def main(model_name='vgg16'):
     BASE_PATH = Path('./')
-    upload = st.file_uploader('Trash Image', type=['png', 'jpg', 'jpeg'])
+    upload = st.camera_input('Trash Image')
     model = load_model(BASE_PATH / 'models' / model_name)
     if upload is not None:
         st.image(upload)
