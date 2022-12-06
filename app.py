@@ -39,7 +39,7 @@ def make_prediction():
         print('Your item is: ', new_prediction[0])
 
 
-def main():
+def main(model_name='vgg16'):
     BASE_PATH = Path('./')
     upload = st.file_uploader('Trash Image', type=['png', 'jpg', 'jpeg'])
     model = load_model(BASE_PATH / 'models' / model_name)
