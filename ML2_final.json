@@ -1,0 +1,86 @@
+[
+	{
+		"id": "http://zotero.org/users/local/qPaKZ8Av/items/G7RXCYLN",
+		"type": "webpage",
+		"abstract": "Repository for our group project. Contribute to hoganj15/Waste_Image_Classifier development by creating an account on GitHub.",
+		"container-title": "GitHub",
+		"language": "en",
+		"title": "Waste_Image_Classifier/images_multiclass at main · hoganj15/Waste_Image_Classifier",
+		"URL": "https://github.com/hoganj15/Waste_Image_Classifier",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/qPaKZ8Av/items/KTE3EMP2",
+		"type": "webpage",
+		"abstract": "An application of Convolutional Neural Networks (CNNs) to waste image-classification",
+		"container-title": "Medium",
+		"language": "en",
+		"title": "How AI Can Help Us Recycle",
+		"URL": "https://towardsdatascience.com/how-ai-can-help-us-recycle-c2f82d0d50de",
+		"author": [
+			{
+				"family": "W",
+				"given": "Duncan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/qPaKZ8Av/items/IAHLGEW5",
+		"type": "webpage",
+		"abstract": "6 classes: cardboard, glass, metal , paper, plastic and trash.",
+		"language": "en",
+		"title": "Garbage Classification",
+		"URL": "https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/qPaKZ8Av/items/RHRLCMSI",
+		"type": "webpage",
+		"language": "en",
+		"title": "Transfer learning and fine-tuning | TensorFlow Core",
+		"URL": "https://www.tensorflow.org/tutorials/images/transfer_learning",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					13
+				]
+			]
+		}
+	}
+]
